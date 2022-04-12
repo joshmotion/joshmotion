@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @joshmotion
-- 👀 I’m interested in ..building the future.
-- 📫 How to reach me ...
+- 👋 Hi - I’m @joshmotion, I build @motionfans.
 
 amazing personal readme.
 
